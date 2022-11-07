@@ -27,7 +27,17 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    
+  <div>
+    <div class="bloq bloque1"> <img src="../assets/21116158daaeb1459b4ec0758505e1ad.gif" alt=""></div>
+    <div class="bloq bloque2"> <img src="../assets/2.gif" alt=""></div>
+   <div class="bloq bloque3"> <img src="../assets/3.gif" alt=""></div>
+   <div class="bloq bloque4"> <img src="../assets/4.gif" alt=""></div>
+    <div class="bloq bloque5"> <img src="../assets/6.png" alt=""></div>
+  
   </div>
+  </div>
+
 </template>
 
 <script>
